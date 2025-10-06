@@ -1,0 +1,2 @@
+1) create app.py(demo flask app which takes name as input and display "welcome" message).
+2) 
